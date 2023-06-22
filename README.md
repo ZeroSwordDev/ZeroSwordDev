@@ -1,6 +1,6 @@
-### Hi there 👋
+
 ### Henry Carrillo - Full Stack Developer
-Henry Carrillo
+
 
 ¡Bienvenido a mi perfil de GitHub! Aquí encontrarás información sobre mí y mis habilidades como desarrollador Full Stack. Si tienes alguna pregunta o te interesa colaborar en algún proyecto, no dudes en contactarme.
 
