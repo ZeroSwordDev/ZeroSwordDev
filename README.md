@@ -35,7 +35,7 @@ Frameworks: React, React Native, Next.js //
 Bases de Datos: MongoDB, MySQL, PostgreSQL //
 Librerías y Herramientas: Express, Node.js, Sequelize, Tailwind CSS //
 Diseño y Prototipado: Figma, Adobe XD, Photoshop, Illustrator //
-Servicios en la Nube: AWS Amplify //
+Servicios en la Nube: AWS Amplify 
 <!--
 **ZeroSwordDev/ZeroSwordDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
