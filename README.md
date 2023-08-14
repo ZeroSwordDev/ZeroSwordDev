@@ -12,7 +12,7 @@ Soy un apasionado desarrollador Full Stack con experiencia en el desarrollo de a
 Mi objetivo es crear aplicaciones robustas y atractivas que brinden una excelente experiencia de usuario. Siempre me esfuerzo por mantenerme actualizado sobre las últimas tecnologías y tendencias en el desarrollo web y móvil para ofrecer soluciones innovadoras y eficientes.
 
  ### Habilidades y Tecnologías
-Lenguajes de Programación: JavaScript, HTML, CSS //
+Lenguajes de Programación: JavaScript , TypeScript , HTML, CSS //
 Frameworks: React, React Native, Next.js //
 Bases de Datos: MongoDB, MySQL, PostgreSQL //
 Librerías y Herramientas: Express, Node.js, Sequelize, Tailwind CSS //
